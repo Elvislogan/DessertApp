@@ -1,0 +1,4 @@
+#Tue Dec 03 12:55:03 PST 2019
+base.0=C\:\\Users\\User\\Music\\New folder\\DessertApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
